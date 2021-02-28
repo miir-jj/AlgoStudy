@@ -3,7 +3,7 @@ package boj;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.PriorityQueue;
-
+/** 메모리 초과 난 코드 */
 public class BOJ1300_1 {
 	public static void main(String[] args) throws Exception{
 		BufferedReader br=new BufferedReader(new InputStreamReader(System.in));

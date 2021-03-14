@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.util.LinkedList;
 import java.util.Stack;
 /**
- * BOJ2631 줄세우기
+ * BOJ2631 줄세우기 - 가장 긴 수열 요소까지 구하기
  * https://www.acmicpc.net/problem/2631
  */
 public class BOJ2631_1 {

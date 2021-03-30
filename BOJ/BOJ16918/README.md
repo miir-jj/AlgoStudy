@@ -1,4 +1,4 @@
-# BOJ 17609번 [봄버맨](https://www.acmicpc.net/problem/16918)
+# BOJ 16918번 [봄버맨](https://www.acmicpc.net/problem/16918)
 
 ## 🌈 풀이 후기
 - 처음 4초의 상태만 반복되는 줄 알고 짰다가 틀린 거 알고 고치다가 꼬여서 여러번 틀렸습니다ㅠㅠ
